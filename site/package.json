@@ -1,0 +1,17 @@
+{
+  "name": "webleyville",
+  "version": "0.0.0",
+  "description": "my site innit",
+  "main": "webleyville.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webleyville"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
